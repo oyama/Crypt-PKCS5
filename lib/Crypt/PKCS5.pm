@@ -1,6 +1,5 @@
 package Crypt::PKCS5;
 
-use 5.008006;
 use strict;
 use warnings;
 
